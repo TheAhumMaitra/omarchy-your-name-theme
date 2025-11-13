@@ -22,6 +22,10 @@ These wallpapers are included **only to make the theme function visually as inte
 
 If any copyright holder wants the images removed, they will be deleted immediately upon request.
 
+ALL WALLPAPERS HERE ARE NOT MINE. I'M GIVING FULL CREDIT TO Makoto Shinkai and CoMix Wave Films.
+
+IF YOU WANT TO CONTACT ME FOR REMOVE THESE. EMAIL ME. Thanks....
+
 
 # Program License
 MIT APPLIED FOR CODES / PROGRAMS ONLY.
