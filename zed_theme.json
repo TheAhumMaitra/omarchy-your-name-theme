@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "Your Name Theme (Dark mode)",
+  "name": "Your Name Theme",
   "author": "Ahum Maitra",
   "themes": [
     {
-      "name": "YourName.",
+      "name": "Your Name.",
       "appearance": "dark",
       "style": {
         "border": "#070C13",
